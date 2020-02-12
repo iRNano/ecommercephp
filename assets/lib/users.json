@@ -1,0 +1,20 @@
+[
+    {
+        "firstName": "Adrian R",
+        "lastName": "Valdepenas",
+        "email": "oturfkram@gmail.com",
+        "password": "a94a8fe5ccb19ba61c4c0873d391e987982fbbd3"
+    },
+    {
+        "firstName": "Adrian",
+        "lastName": "Valdepenas",
+        "email": "email@email.com",
+        "password": "5baa61e4c9b93f3f0682250b6cf8331b7ee68fd8"
+    },
+    {
+        "firstName": "admin",
+        "lastName": "admin",
+        "email": "admin@admin.com",
+        "password": "d033e22ae348aeb5660fc2140aec35850c4da997"
+    }
+]

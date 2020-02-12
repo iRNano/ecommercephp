@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Ktm1",
+        "price": 1,
+        "description": "black and orange",
+        "image": "images\/ktm1.jpg"
+    },
+    {
+        "name": "Ktm2",
+        "price": 1,
+        "description": "black and orange",
+        "image": "images\/ktm2.jpg"
+    },
+    {
+        "name": "Ktm3",
+        "price": 1,
+        "description": "black and orange",
+        "image": "images\/ktm3.jpg"
+    },
+    {
+        "name": "Ktm4",
+        "price": 1,
+        "description": "black and orange",
+        "image": "images\/ktm4.jpg"
+    },
+    {
+        "name": "Ktm5",
+        "price": 1,
+        "description": "black and orange",
+        "image": "images\/ktm5.jpg"
+    }
+]
